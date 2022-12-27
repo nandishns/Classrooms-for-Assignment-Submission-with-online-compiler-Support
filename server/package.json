@@ -1,0 +1,16 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "mini project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nandish",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
